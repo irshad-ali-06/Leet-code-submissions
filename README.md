@@ -5,8 +5,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
