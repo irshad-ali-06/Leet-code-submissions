@@ -36,4 +36,9 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
