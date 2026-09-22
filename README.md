@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0374-guess-number-higher-or-lower) |
@@ -43,4 +45,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
