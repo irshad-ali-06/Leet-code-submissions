@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -23,6 +24,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
