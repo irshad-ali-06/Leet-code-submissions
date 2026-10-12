@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0724-find-pivot-index](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
