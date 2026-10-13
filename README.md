@@ -25,6 +25,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0724-find-pivot-index) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
