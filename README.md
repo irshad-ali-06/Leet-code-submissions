@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0682-baseball-game](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
