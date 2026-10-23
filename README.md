@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0053-maximum-subarray) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
