@@ -1,18 +1,14 @@
 class Solution:
     def twoSum(self, numbers: list[int], target: int) -> list[int]:
-        sum = 0
-        n = len(numbers)
-        left = 0
-        right = n-1
+        dict1 = {}
 
-        while left < right:
-            sum = numbers[left]+numbers[right]
-            if sum == target:
-                return [left+1, right +1]
-            if sum < target:
-                left+=1
+        for i in range(len(numbers)):
+            find = target - numbers[i]
+            if find not in dict1:
+                dict1[numbers[i]] = i
             else:
-                right-=1
+                return [dict1[find] + 1,i +1] 
+
 
             
 
