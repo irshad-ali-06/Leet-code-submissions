@@ -23,6 +23,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0001-two-sum) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
