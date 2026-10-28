@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0088-merge-sorted-array) |
@@ -115,6 +116,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
@@ -127,5 +129,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
