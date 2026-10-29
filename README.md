@@ -97,6 +97,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1108-defanging-an-ip-address](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/1108-defanging-an-ip-address) |
 ## String Matching
 |  |
 | ------- |
