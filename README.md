@@ -34,6 +34,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/irshad-ali-06/Leet-code-submissions/tree/master/1108-defanging-an-ip-address) |
